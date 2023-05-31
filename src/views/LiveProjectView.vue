@@ -10,7 +10,7 @@
       <div class="bg-blue-300 mb-4 p-2 rounded-md shadow-md">2. Shopping Cart</div>
     </a>
     <a class="font-bold text-xl" href="https://symphonious-piroshki-e41c85.netlify.app" target="_blank">
-      <div class="bg-blue-300 mb-4 p-2 rounded-md shadow-md">2. Portfolio</div>
+      <div class="bg-blue-300 mb-4 p-2 rounded-md shadow-md">3. Portfolio</div>
     </a>
 
     <!-- </a> -->
