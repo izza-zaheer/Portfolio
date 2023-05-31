@@ -13,13 +13,13 @@ Fancy and minimal portfolio made on VUE JS and Tailwind CSS.
 Clone the project
 
 ```bash
-  git clone https://github.com/saileshrijal/vue-tailwind-portfolio
+  git clone https://github.com/izza-zaheer/Portfolio
 ```
 
 Go to the project directory
 
 ```bash
-  cd vue-tailwind-portfolio
+  cd Portfolio
 ```
 
 Install dependencies
@@ -42,9 +42,9 @@ Build the project
 
 Build project is located on dist directory
 
-## Screenshots
+<!-- ## Screenshots -->
 
-![Home Page - Dark Mode](https://user-images.githubusercontent.com/88402075/235314265-6fa9c022-7061-44c2-8087-17d2b673570f.png)
+<!-- ![Home Page - Dark Mode](https://user-images.githubusercontent.com/88402075/235314265-6fa9c022-7061-44c2-8087-17d2b673570f.png)
 
 ![About Page - Dark Mode](https://user-images.githubusercontent.com/88402075/235314266-b51998c9-f036-4fb0-883b-13afd6329e54.png)
 
@@ -54,13 +54,13 @@ Build project is located on dist directory
 
 ![About Page - Light Mode](https://user-images.githubusercontent.com/88402075/235314271-323a14b1-fa17-4474-8527-b139fee9b5f7.png)
 
-![Project Page - Light Mode](https://user-images.githubusercontent.com/88402075/235314262-57c48c9e-9200-48c1-8b54-ec5794811b7b.png)
+![Project Page - Light Mode](https://user-images.githubusercontent.com/88402075/235314262-57c48c9e-9200-48c1-8b54-ec5794811b7b.png) -->
 
 ## 🚀 About Me
 
 I'm a full stack developer...
 
-## 🔗 Links
+<!-- ## 🔗 Links
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://saileshrijal.com.np/)
 
@@ -68,4 +68,4 @@ I'm a full stack developer...
 
 ## Demo
 
-Link: https://saileshrijal.com.np/
+Link: https://saileshrijal.com.np/ -->
