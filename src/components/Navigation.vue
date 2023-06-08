@@ -73,7 +73,7 @@ export default {
 
 .topnav a:hover {
   background-color: blue;
-  color: black;
+  color: white;
 }
 
 .topnav a.active {
