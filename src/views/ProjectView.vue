@@ -1,4 +1,5 @@
 <template>
+  <div>
     <p class="text-center mb-3 dark:text-blue-300">Projects from <font-awesome-icon icon="fa-brands fa-github" />
     </p>
     <div class="max-h-[50vh] overflow-auto sm:w-4/12 mx-auto">
@@ -13,6 +14,7 @@
             </a>
         </div>
     </div>
+  </div>
 </template>
 <script setup>
 import { ref, onMounted } from 'vue';
