@@ -1,6 +1,6 @@
 # Vue Portfolio
 
-Fancy and minimal portfolio made on VUE JS and Tailwind CSS.
+Fancy and minimal portfolio made on VUE JS and Tailwind CSS. 
 
 ## Features
 
